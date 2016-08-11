@@ -1,3 +1,1 @@
-puts "c"
-puts 'a'
-puts 'b'
+puts 'i want more money'
