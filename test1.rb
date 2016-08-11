@@ -1,3 +1,3 @@
 puts "c"
 puts 'a'
-puts 'b'
+puts %w{rubet bwtting in csgo is bad and will get ban}
